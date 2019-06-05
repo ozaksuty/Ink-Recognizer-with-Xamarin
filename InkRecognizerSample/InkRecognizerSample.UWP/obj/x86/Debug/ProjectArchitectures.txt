@@ -1,0 +1,1 @@
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample.UWP\InkRecognizerSample.UWP.csproj;x86

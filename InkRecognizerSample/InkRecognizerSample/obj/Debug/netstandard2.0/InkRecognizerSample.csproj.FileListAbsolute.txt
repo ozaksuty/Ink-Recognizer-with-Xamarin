@@ -1,0 +1,12 @@
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\bin\Debug\netstandard2.0\InkRecognizerSample.deps.json
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\bin\Debug\netstandard2.0\InkRecognizerSample.dll
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\bin\Debug\netstandard2.0\InkRecognizerSample.pdb
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\InkRecognizerSample.csprojAssemblyReference.cache
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\InkRecognizerSample.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\InkRecognizerSample.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\InkRecognizerSample.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\InkRecognizerSample.dll
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\InkRecognizerSample.pdb
+C:\Users\Yigit\source\repos\InkRecognizerSample\InkRecognizerSample\InkRecognizerSample\obj\Debug\netstandard2.0\XamlC.stamp
